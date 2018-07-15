@@ -8,7 +8,7 @@
 ```
  
 ***
-![image 团队分数](https://github.com/DaisyLoveU/-/blob/master/picture/MyResult.png ''最后的分数'')
+![image 团队分数](https://github.com/DaisyLoveU/-/blob/master/picture/MyResult.png "最后的分数")
 ***
 ```
 最终成绩233.019分，从2018/3/7号开始到现在2018/4/16持续奋斗一个多月，效果不是很满意，江山赛区64强（235分）开外，
